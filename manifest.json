@@ -1,0 +1,21 @@
+{
+  "short_name": "Incidencias",
+  "name": "Registro de incidencias",
+  "description": "Una aplicación moderna y elegante para registrar y gestionar sus incidencias diarias, incluyendo fechas, horas y personal involucrado. Manténgase organizado y al tanto de todo.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#111827"
+}
